@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1536352470 source:c:\users\usuario\desktop\trabajo práctico n°1 reyes ezequiel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Reyes Ezequiel.h"
+
+1536352260 source:c:\users\usuario\desktop\trabajo práctico n°1 reyes ezequiel\reyes ezequiel.c
+	<stdio.h>
+	<stdlib.h>
+	"Reyes Ezequiel.h"
+
+1536344508 c:\users\usuario\desktop\trabajo práctico n°1 reyes ezequiel\reyes ezequiel.h
+
+1536353767 source:c:\users\alumno\desktop\programacioni-y-laboratorioi-master\trabajo pr+íctico n-¦1 reyes ezequiel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Reyes Ezequiel.h"
+
+1536356199 c:\users\alumno\desktop\programacioni-y-laboratorioi-master\trabajo pr+íctico n-¦1 reyes ezequiel\reyes ezequiel.h
+
+1536354022 source:c:\users\alumno\desktop\programacioni-y-laboratorioi-master\trabajo pr+íctico n-¦1 reyes ezequiel\reyes ezequiel.c
+	<stdio.h>
+	<stdlib.h>
+	"Reyes Ezequiel.h"
+
